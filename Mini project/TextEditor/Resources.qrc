@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>resources/copy.png</file>
+        <file>resources/cutting.png</file>
+        <file>resources/diskette.png</file>
+        <file>resources/document.png</file>
+        <file>resources/documentation.png</file>
+        <file>resources/new-features.png</file>
+        <file>resources/open.png</file>
+        <file>resources/open-box.png</file>
+        <file>resources/paper.png</file>
+        <file>resources/printer.png</file>
+        <file>resources/save-as.png</file>
+        <file>resources/search.png</file>
+    </qresource>
+</RCC>
